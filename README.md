@@ -2,7 +2,7 @@ Hi! My name is Danny, and I'm in school for Full-Stack Web Development. I've bee
 
 </br> Some facts about myself: </br>
 <ul>
-  <li>I love gaming, and have played at a high level in many FPS and TPS games. I also am a big fan of rhythm games, mainly osu mania</li>
+  <li>I love gaming, and have played at a high level in many FPS and TPS games. I also am a big fan of rhythm games.</li>
   <li>I am very invested in the gym, and I would love to compete in a bodybuilding show at some point in my life.</li>
   <li>I currently live in Connecticut, but have lived in Florida for about 3 years at one point.</li>
 </ul>
