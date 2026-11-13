@@ -38,6 +38,6 @@ I build with semantic HTML, test contrast and keyboard navigation against WCAG, 
 Have a project in mind? Let's talk.
 
 Email: dclane5551@gmail.com
-Website: <!-- TODO --> YOUR-PORTFOLIO-URL
-LinkedIn: <!-- TODO --> linkedin.com/in/YOUR-LINKEDIN
+Website: <!-- TODO --> dclane5551.com
+LinkedIn: <!-- TODO --> https://www.linkedin.com/in/dclane5551/
 GitHub: github.com/dclane5551
