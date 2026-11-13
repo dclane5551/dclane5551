@@ -1,13 +1,43 @@
-Hi! My name is Danny, and I'm in school for Full-Stack Web Development. I've been very much enjoying learning html, and seeing my website improve real time is quite satisfying. I aspire to either freelance or work under a respected company after graduation, whichever is the more efficient option at the time. 
+<!-- Profile README for github.com/dclane5551 Put this file in a PUBLIC repo named exactly "dclane5551". --> <h1 align="center">Hi, I'm Danny Lane 👋</h1> <h3 align="center">Full-Stack Web Developer &amp; Designer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Visual+design+%2B+accessible+code;Modern+web+standards%2C+built+in+from+the+start;ASU+%E2%80%94+Full+Stack+Web+Development" alt="Typing tagline: visual design plus accessible code, modern web standards built in from the start" /> </p> <p align="center"> <!-- TODO: swap in your portfolio URL --> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a> <!-- TODO: swap in your LinkedIn URL (or delete this badge) --> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:dclane5551@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+About Me
 
-</br> Some facts about myself: </br>
-<ul>
-  <li>I love gaming, and have played at a high level in many FPS and TPS games. I also am a big fan of rhythm games.</li>
-  <li>I am very invested in the gym, and I would love to compete in a bodybuilding show at some point in my life.</li>
-  <li>I currently live in Connecticut, but I've also lived in Florida for about 3 years at one point.</li>
-</ul>
+I'm a web developer and designer who combines visual design, accessible code, and modern web standards. I'm earning a BS in Graphic Information Technology (Full Stack Web Development) at Arizona State University (Dean's List), and I work as a freelance website developer for Rhythia, a rhythm-game community.
 
+After graduation I'm looking for a front-end or full-stack developer role on a product or agency team.
 
+🔭 Currently
+Building: new features for challengemaps.net and the weapon set for AIMBOUND
+Learning: <!-- TODO: e.g., React, TypeScript, Node.js -->
+Open to: freelance work, internships, and full-time roles
+🚀 Featured Projects
+Project	What it is	Built with
+Dive's Challenge Maps · code	Map library and moderated score leaderboard for Rhythia's community — 484 maps across 4 difficulty tiers, with map downloads and score submissions reviewed by a team of moderators.	HTML, CSS, JavaScript
+Civic Threads · code	ASU team project: a WooCommerce store that shows verified sustainability data for each garment. My role was CSS scaffolding and accessibility QA.	WordPress, WooCommerce, ACF, CSS
+AIMBOUND · code	Skill-based action RPG on Roblox with procedurally generated dungeons, randomized loot, and a large passive skill tree, where good aim is the core skill.	Luau, Roblox Studio, Blender
+🛠️ Tech Stack
 
+Languages: HTML · CSS · JavaScript · Luau <!-- TODO: add any others you use, e.g., PHP, SQL, Python -->
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=dclane5551&count_private=true&show_icons=true&hide=contribs)
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,lua" alt="HTML, CSS, JavaScript, Luau" /> </p>
+
+CMS: WordPress · WooCommerce · Advanced Custom Fields
+
+<p> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /> </p>
+
+Tools: Git · GitHub · VS Code · Blender · Roblox Studio
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,blender" alt="Git, GitHub, VS Code, Blender" /> </p>
+♿ Accessibility First
+
+I build with semantic HTML, test contrast and keyboard navigation against WCAG, and check that layouts hold up across viewports. Accessibility is part of how I build from the start, not a final checklist.
+
+📊 GitHub Stats
+<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=dclane5551&show_icons=true&hide_border=true" alt="Danny's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclane5551&layout=compact&hide_border=true" alt="Top languages" /> </p> <p> <img src="https://streak-stats.demolab.com?user=dclane5551&hide_border=true" alt="GitHub contribution streak" /> </p>
+📫 Contact
+
+Have a project in mind? Let's talk.
+
+Email: dclane5551@gmail.com
+Website: <!-- TODO --> YOUR-PORTFOLIO-URL
+LinkedIn: <!-- TODO --> linkedin.com/in/YOUR-LINKEDIN
+GitHub: github.com/dclane5551
