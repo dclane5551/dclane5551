@@ -31,8 +31,6 @@ Tools: Git · GitHub · VS Code · Blender · Roblox Studio
 
 I build with semantic HTML, test contrast and keyboard navigation against WCAG, and check that layouts hold up across viewports. Accessibility is part of how I build from the start, not a final checklist.
 
-📊 GitHub Stats
-<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=dclane5551&show_icons=true&hide_border=true" alt="Danny's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclane5551&layout=compact&hide_border=true" alt="Top languages" /> </p> <p> <img src="https://streak-stats.demolab.com?user=dclane5551&hide_border=true" alt="GitHub contribution streak" /> </p>
 📫 Contact
 
 Have a project in mind? Let's talk.
