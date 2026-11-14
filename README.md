@@ -28,7 +28,7 @@ Each project links to a full case study covering the objective, my process, and 
 - **Objective:** Replace the community spreadsheet of 484 challenge maps with a website where players can browse every tier, download maps, and submit scores for review.
 - **My role:** Solo developer, from data modeling to the moderated submission workflow.
 - **Result:** Live at [challengemaps.net](https://challengemaps.net) and now the community's reference for every challenge map.
-- **Built with:** HTML · CSS · JavaScript
+- **Built with:** WordPress · PHP · JavaScript · CSS
 
 ➜ **[Read the case study](https://github.com/dclane5551/challenge-maps)**
 
@@ -44,7 +44,7 @@ Each project links to a full case study covering the objective, my process, and 
 ### [Progress You Earn With Your Aim: AIMBOUND](https://github.com/dclane5551/aimbound)
 
 - **Objective:** Design and build a skill-based action RPG on Roblox where progression rewards precision, not time spent.
-- **My role:** Solo designer and developer: systems architecture, Luau scripting, optimization, and the 3D asset pipeline.
+- **My role:** Solo designer and developer, built with AI-assisted development (Claude Code): game design, systems architecture, testing, and balancing.
 - **Result:** A working core loop with procedural levels, randomized loot, combat, and a skill-tree framework, in active development.
 - **Built with:** Luau · Roblox Studio · Blender
 
@@ -52,10 +52,10 @@ Each project links to a full case study covering the objective, my process, and 
 
 ## **Tech Stack**
 
-**Languages:** HTML · CSS · JavaScript · Luau
+**Languages:** HTML · CSS · JavaScript · PHP · Luau
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua" alt="HTML, CSS, JavaScript, Luau" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,lua" alt="HTML, CSS, JavaScript, PHP, Luau" />
 </p>
 
 **CMS:** WordPress · WooCommerce · Advanced Custom Fields
@@ -84,4 +84,5 @@ I build with semantic HTML, test contrast and keyboard navigation against WCAG, 
 <p align="center">
   <img src="assets/footer.png" alt="Have a project in mind? Let's build something accessible together. dclane5551@gmail.com" width="100%" />
 </p>
+
 
