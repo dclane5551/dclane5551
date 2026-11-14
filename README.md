@@ -33,7 +33,7 @@ I build with semantic HTML, test contrast and keyboard navigation against WCAG, 
 
 Contact
 
-Have a project in mind? Let's talk.
+Have a project in mind? Feel free to reach out!
 
 Email: dclane5551@gmail.com
 Website: <!-- TODO --> dclane5551.com
